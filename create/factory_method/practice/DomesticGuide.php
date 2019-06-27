@@ -1,7 +1,6 @@
 <?php
-//include_once ('HiringManager.php');
-//include_once ('Developer.php');
 
+// 国内案内に転身したガイドさん
 class DomesticGuide extends TravelGuide
 {
     protected function makeGuide(): Guide

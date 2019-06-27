@@ -1,9 +1,6 @@
 <?php
 include_once ('Autoloader.php');
 
-//include_once ('DevelopmentManager.php');
-//include_once ('MarketingManager.php');
-
 // 国内の旅行案内
 $domesticGuide = new DomesticGuide();
 
