@@ -13,7 +13,7 @@ class Domestic implements Guide
     }
 
     // おすすめの場所を教える
-    public function RecomendePlace(){
+    public function RecommendPlace(){
         echo "今シーズン、おすすめは「沖縄」です！\n";
     }
 }

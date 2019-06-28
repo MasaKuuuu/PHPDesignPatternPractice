@@ -8,5 +8,5 @@ interface Guide
     public function AskDestination();
 
     // おすすめの場所を教える
-    public function RecomendePlace();
+    public function RecommendPlace();
 }
