@@ -13,7 +13,7 @@ class Overseas implements Guide
     }
 
     // おすすめの場所を教える
-    public function RecomendePlace(){
+    public function RecommendPlace(){
         echo "今シーズン、おすすめは「フランス」です！\n";
     }
 }

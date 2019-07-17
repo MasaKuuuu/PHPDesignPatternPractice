@@ -15,6 +15,6 @@ abstract class TravelGuide
         // ガイドラインに従って接客対応！
         $guide->WelcomeCustomers();
         $guide->AskDestination();
-        $guide->recomendePlace();
+        $guide->RecommendPlace();
     }
 }
